@@ -1,0 +1,44 @@
+[
+    {
+        "img": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+        "activity": "Weight-Lift",
+        "description": "Lets get Hand muscle ripped",
+        "age": "20-35yr",
+        "time": 30
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "activity": "Weight-Pull",
+        "description": "Lets get those back muscle ripped",
+        "age": "20-45yr",
+        "time": 35
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1522898467493-49726bf28798?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "activity": "Ball",
+        "description": "Lets get some streching",
+        "age": "20-45yr",
+        "time": 60
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1593079831268-3381b0db4a77?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1169&q=80",
+        "activity": "Trademil",
+        "description": "Lets get some Running exercise",
+        "age": "20-55yr",
+        "time": 120
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1540496905036-5937c10647cc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "activity": "Cycling",
+        "description": "Lets get some Legs exercise",
+        "age": "20-55yr",
+        "time": 150
+    },
+    {
+        "img": "https://images.unsplash.com/photo-1517344800994-80b20463999c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80",
+        "activity": "Kettle Bell",
+        "description": "Lets get some Hands exercise",
+        "age": "20-45yr",
+        "time": 90
+    }
+]
